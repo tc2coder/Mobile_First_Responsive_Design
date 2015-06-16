@@ -2,6 +2,7 @@ body{
 	margin:0;
 	padding:0px;
 	color:#000;
+  font-family: 'Lato', sans-serif;
 	}
 
 .wrap {
@@ -38,11 +39,39 @@ body{
 {
   float: right;
   width:80%;
-  margin-top: 150px; /* for fixed header */
+  margin-top: 35%; /* for fixed header */
 
 }
-.footer
-{
+
+/************************************
+FOOTER
+************************************/
+/*.footer {
   clear: both;
+  width: 100%;
+  color: #000;
+  margin: 0 auto;
+  position: fixed;
+  text-align: center;
+  padding-top: 2%;
+}*/
+
+.footer {
+    clear: both;
+    background-color:red;
+    position:fixed;
+    bottom:0px;
+    left:0px;
+    right:0px;
+    height:50px;
+    margin-bottom:0px;
+    text-align: center;
+    font-size: 90%;
 }
+
+#copy {
+  padding-bottom: 10px;
+}
+
+
 
