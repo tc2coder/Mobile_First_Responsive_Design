@@ -1,0 +1,40 @@
+body{
+	margin:0;
+	padding:0px;
+	color:#000;
+	}
+.wrap {
+	width:100%;
+	margin:0 auto;
+	background:#000;
+	}	
+.menuHide{
+   	position: relative;
+    left: -20%;  
+}
+
+.menuShow{
+   position: relative;
+   left: 0px;
+}
+
+.header {
+    	color: #fff;
+    	text-align: center;
+	}
+.menu{
+  float: left;
+  /* width: 250px; */
+  width: 20%;
+  
+}
+.body
+{
+  float: right;
+  width:80%;
+}
+.footer
+{
+  clear: both;
+}
+
