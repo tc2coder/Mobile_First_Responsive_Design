@@ -39,22 +39,13 @@ body{
 {
   float: right;
   width:80%;
-  margin-top: 35%; /* for fixed header */
-
+  margin-top: 10%; /* for fixed header */ /*something gets screwy going from big to mobile. originally had at 35%*/
+  margin-bottom: 5%;
 }
 
 /************************************
 FOOTER
 ************************************/
-/*.footer {
-  clear: both;
-  width: 100%;
-  color: #000;
-  margin: 0 auto;
-  position: fixed;
-  text-align: center;
-  padding-top: 2%;
-}*/
 
 .footer {
     clear: both;
