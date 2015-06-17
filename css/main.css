@@ -31,6 +31,15 @@ HEADER
    left: 0px;
 }
 
+
+.header {
+    	color: #fff;
+    	text-align: center;
+
+
+	}
+
+
 .menu{
   float: left;
   width: 20%;
@@ -69,7 +78,9 @@ FOOTER
 }
 
 #copy {
+
   padding-bottom: 5x;
+
 }
 
 .footer {
@@ -78,12 +89,19 @@ FOOTER
     font-size: 90%;
     background-color:red;
     position:fixed;
+    width: 100%;
+  margin: 0 auto;
     bottom:0px;
     left:0px;
     right:0px;
+
+    /*height:50px;*/
+    margin-bottom:0px;
+
     /*height: 50px;*/
     margin-bottom:0px;
     padding: 5px;
+
 
     
 }
