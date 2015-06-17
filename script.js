@@ -1,6 +1,6 @@
 $(function()
 {
-  $('.footer').click(function()
+  $('.hamburger').click(function()
   {
     //alert('test');
     //alert($('#slider').length);
