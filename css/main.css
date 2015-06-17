@@ -50,7 +50,7 @@ HEADER
 {
   float: right;
   width:80%;
-  margin-top: 10%; /* for fixed header */ /*something gets screwy going from big to mobile. originally had at 35%*/
+  margin-top: 15%; /* for fixed header */ /*something gets screwy going from big to mobile. originally had at 35%*/
   margin-bottom: 15%;
 }
 
