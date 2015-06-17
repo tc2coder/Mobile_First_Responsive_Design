@@ -1,51 +1,48 @@
+/*style applied to the whole site*/
 body{
 	margin:0;
 	padding:0px;
 	color:#000;
   font-family: 'Lato', sans-serif;
 	}
-
+/************************************
+HEADER
+************************************/
+/*contains the header*/
 .wrap {
 	width: 100%;
 	margin: 0 auto;
   background-color: #000;
   position: fixed;
-  
 	}	
-
-
-
+.header {
+      color: #fff;
+      text-align: center;
+  }
+/*contains the articles and slide to the left*/
 .menuHide{
    	position: relative;
     left: -20%;
 
 }
-
+/*this div allows the menu to show*/
 .menuShow{
    position: relative;
    left: 0px;
-
 }
 
-.header {
-    	color: #fff;
-    	text-align: center;
-
-	}
 .menu{
   float: left;
-  /* width: 250px; */
   width: 20%;
- 
-
-  
+  margin-top: 12%;
 }
+/*contais the articles*/
 .body
 {
   float: right;
   width:80%;
   margin-top: 10%; /* for fixed header */ /*something gets screwy going from big to mobile. originally had at 35%*/
-  margin-bottom: 5%;
+  margin-bottom: 15%;
 }
 
 /************************************
@@ -72,7 +69,7 @@ FOOTER
 }
 
 #copy {
-  padding-bottom: 50px;
+  padding-bottom: 5x;
 }
 
 .footer {
@@ -84,8 +81,9 @@ FOOTER
     bottom:0px;
     left:0px;
     right:0px;
-    height:50px;
+    /*height: 50px;*/
     margin-bottom:0px;
+    padding: 5px;
 
     
 }
