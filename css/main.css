@@ -34,14 +34,16 @@ HEADER
 .menu{
   float: left;
   width: 20%;
-  margin-top: 12%;
+  margin-top: 15%;
+  position: fixed;
+  padding-left: 5px;
 }
 /*contais the articles*/
-.body
+.content
 {
   float: right;
   width:80%;
-  margin-top: 10%; /* for fixed header */ /*something gets screwy going from big to mobile. originally had at 35%*/
+  margin-top: 15%; /* for fixed header */ /*something gets screwy going from big to mobile. originally had at 35%*/
   margin-bottom: 15%;
 }
 
