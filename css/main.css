@@ -31,12 +31,14 @@ body{
     	color: #fff;
     	text-align: center;
 
+
 	}
 .menu{
   float: left;
   /* width: 250px; */
   width: 20%;
- 
+
+
 
   
 }
@@ -72,7 +74,7 @@ FOOTER
 }
 
 #copy {
-  padding-bottom: 50px;
+  padding-bottom: 30px;
 }
 
 .footer {
@@ -81,11 +83,13 @@ FOOTER
     font-size: 90%;
     background-color:red;
     position:fixed;
-    bottom:0px;
+    width: 100%;
+  margin: 0 auto;
+    /*bottom:0px;
     left:0px;
     right:0px;
     height:50px;
-    margin-bottom:0px;
+    margin-bottom:0px;*/
 
     
 }
