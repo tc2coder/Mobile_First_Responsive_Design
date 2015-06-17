@@ -13,14 +13,18 @@ body{
   
 	}	
 
+
+
 .menuHide{
    	position: relative;
-    left: -20%;  
+    left: -20%;
+
 }
 
 .menuShow{
    position: relative;
    left: 0px;
+
 }
 
 .header {
@@ -32,6 +36,7 @@ body{
   float: left;
   /* width: 250px; */
   width: 20%;
+ 
 
   
 }
@@ -47,8 +52,33 @@ body{
 FOOTER
 ************************************/
 
+
+/*.copyright {
+    text-align: center;
+    font-size: 90%;
+    background-color:red;
+    height: 40px;*/
+   /* position: fixed;*/
+
+  
+    /*
+    position:fixed;
+    bottom:0px;
+    left:0px;
+    right:0px;
+    height:50px;
+    margin-bottom:0px;*/
+    
+}
+
+#copy {
+  padding-bottom: 50px;
+}
+
 .footer {
     clear: both;
+    text-align: center;
+    font-size: 90%;
     background-color:red;
     position:fixed;
     bottom:0px;
@@ -56,12 +86,8 @@ FOOTER
     right:0px;
     height:50px;
     margin-bottom:0px;
-    text-align: center;
-    font-size: 90%;
-}
 
-#copy {
-  padding-bottom: 10px;
+    
 }
 
 
