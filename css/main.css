@@ -45,6 +45,12 @@ HEADER
   padding-left: 3px;
   font-size: 20px;
 }
+
+.menu div
+{
+  padding-bottom:  15px;
+}
+
 /*contais the articles*/
 .content
 {
@@ -77,11 +83,14 @@ FOOTER
 
 
 .copyright {
-    text-align: left;
+    text-align: center;
     font-size: 80%;
     background-color:red;
     /*position: fixed;*/
     bottom: 0px;
+    /*margin-top: 10%;*/
+    padding-top: 15px;
+
 }
 .hamburger{
   position: fixed;
