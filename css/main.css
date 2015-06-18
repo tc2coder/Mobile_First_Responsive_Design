@@ -57,7 +57,7 @@ HEADER
 {
   float: right;
   width:78%;
-  margin-top: 20%; *//* for fixed header  /*something gets screwy going from big to mobile. originally had at 35%*/
+  margin-top: 20%;
   margin-bottom: 15%; 
 }
 
@@ -66,9 +66,7 @@ HEADER
 NAVIGATION MENU
 ************************************/
 
-.articleMenu{
- 
-}
+.articleMe
 
 /************************************
 IMAGES
@@ -89,10 +87,10 @@ FOOTER
     text-align: center;
     font-size: 80%;
     background-color:red;
-    /*position: fixed;*/
+    /*position: fixed;
     bottom: 0px;
     /*margin-top: 10%;*/
-    padding-top: 15px;
+    padding-top: 20px;
 
 }
 .hamburger{
