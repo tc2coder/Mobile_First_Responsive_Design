@@ -1,0 +1,22 @@
+@media screen and (min-width: 480px) {
+	body{}	
+
+  }
+.content{
+	margin-top: 200px;
+}
+.menu{
+	margin-top: 250px;
+}
+.copyright{
+	font-size: 10%;
+}
+
+}
+@media screen and (min-width: 660px) {
+	body{
+	
+	}
+
+  }*/
+  }
