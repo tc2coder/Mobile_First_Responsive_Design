@@ -87,21 +87,21 @@ FOOTER
     text-align: center;
     font-size: 80%;
     background-color:red;
-    /*position: fixed;
-    bottom: 0px;
+    /*position: fixed;*/
+    /*bottom: 0px;*/
     /*margin-top: 10%;*/
     padding-top: 20px;
-
 }
+
 .hamburger{
   position: fixed;
   max-width: none;
+
 }
 
 
 .footer {
     clear: both;
-    text-align: center;
     background-color:red;
     position:fixed;
     bottom:0px;
